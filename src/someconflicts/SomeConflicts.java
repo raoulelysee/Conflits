@@ -17,6 +17,7 @@ public class SomeConflicts {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("on va avoir des conflits");
+        System.out.println("Je suis Netbeans");
     }
     
 }
